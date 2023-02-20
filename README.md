@@ -1,4 +1,3 @@
-/**
  * This project demonstrates the new features in Java 17 compared to Java 11.
  * These features include:
  * 
@@ -11,4 +10,3 @@
  * - New APIs for working with files and streams, which make it easier to write high-performance and scalable applications
  *
  * By using these new features in Java 17, developers can write more concise, expressive, and performant code.
- */
